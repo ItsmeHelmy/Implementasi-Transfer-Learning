@@ -1,1 +1,0 @@
-# Implementasi-Transfer-Learning
